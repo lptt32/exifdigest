@@ -1,0 +1,4 @@
+exifdigest
+==========
+
+Exif digest
